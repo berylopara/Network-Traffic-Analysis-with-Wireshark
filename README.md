@@ -27,13 +27,19 @@ It includes network design, subnet configuration, packet inspection, and firewal
 
 ---
 
-### 📸 Project Screenshots  
-| Description | Screenshot |
-|--------------|-------------|
-| Network Design Diagram | ![Network Diagram](./NETWORK_DIAGRAM.png) |
-| HTTP Filtered Traffic | ![HTTP Filtered](./HTTP_FILTERED.png) |
-| Packet List View | ![Packet List](./SHOWING_PACKET_LIST.png) |
-| Detailed Packet Info | ![Packet Detail](./PACKET_DETAIL.png) |
+## 📸 Project Screenshots
+
+**1. Network Diagram**  
+![Network Diagram](NETWORK%20DIAGRAM.png)
+
+**2. HTTP Filtered Traffic**  
+![HTTP Filtered](HTTP%20FILTERED.png)
+
+**3. Packet Detail View**  
+![Packet Detail](PACKET%20DETAIL.png)
+
+**4. Showing Packet List**  
+![Packet List](SHOWING%20PACKET%20LIST.png)
 
 ### 🧠 Key Learnings  
 - How to analyze real network traffic with Wireshark  
